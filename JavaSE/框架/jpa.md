@@ -1,3 +1,0 @@
-jpa的出现是为了整合orm框架，所有的orm框架都使用jpa规范，实现jpa提供的接口。
-
-Spring Data JPA是在JPA规范的基础下提供了Repository层的实现，DAO层继承了repository之后可以简化持久化的操作，例如不用写实现类，还可以在不变代码的情况下更换orm框架。
